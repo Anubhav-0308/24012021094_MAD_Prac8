@@ -135,18 +135,6 @@ The application displays a simple screen containing:
 
 The text appears with padding around it, demonstrating a basic SwiftUI layout.
 
-## 📸 Screenshots
-
-Add screenshots of the running application here.
-
-Example:
-
-```markdown
-![Hello World iOS App](screenshots/hello-world.png)
-```
-
-Create a `screenshots` folder in the repository and add your actual screenshot using the filename `hello-world.png` if you want to use the example above.
-
 ## 📚 Learning Outcomes
 
 After completing this practical, students will understand:
